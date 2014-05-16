@@ -1,4 +1,4 @@
-Arch-Installation-Quick-Reference
+Arch Installation Quick Reference
 =================================
 
 Created for the purpose of installing quick and slightly customized installations of Arch Linux.
